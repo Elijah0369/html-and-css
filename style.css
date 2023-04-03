@@ -1,0 +1,108 @@
+*{
+
+}
+#header
+{
+    margin: 0%;
+    background-color: rgb(155, 61, 223);
+    padding: 25px;
+    border: groove 7px;
+    border-color: black;
+}
+.title
+{
+    text-align: center;
+    font-size: 50px;
+}
+#link
+{
+    
+    text-align: right;
+
+
+    
+}
+a:link
+{
+    color: beige;
+    margin-bottom: 100px;
+    font-size: 25px;
+    margin: 20px;
+
+}
+#home
+{
+    background-color: aqua;
+    padding: 25px;
+    text-align: center;
+}
+.para1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+#about
+{
+    border: solid 5px;
+    background-color: rgb(151, 233, 232);
+}
+.img
+{
+    margin: auto;
+    text-align: center;
+    
+}
+li
+{
+    display: inline-block;
+    margin: 50px;
+}
+#work
+{
+    background-color: rgb(255, 0, 0);
+    padding: 25px;
+}
+.para2
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.imag1
+{
+    float: right;
+}
+.imag2
+{
+    float: right;
+}
+.imag3
+{
+    float: right;
+}
+#footer
+{
+    background-color: rgb(235, 235, 36);
+    padding: 25px;
+}
+.para4
+{
+    text-align: center;
+}
+.title0
+{
+     text-align: center;
+}
+.contact-link
+{
+    text-decoration-color: blue;
+    font-style: italic;
+    
+}
+a:link
+{
+    color: rgb(3, 3, 35);
+}
+#logo-img
+{
+float: right;
+}
